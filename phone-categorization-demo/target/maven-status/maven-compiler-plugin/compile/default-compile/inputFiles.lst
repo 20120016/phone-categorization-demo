@@ -1,0 +1,13 @@
+D:\mine\jumia\exec_java\demo\phone-categorization-demo\src\main\java\com\exercise\demo\configuration\SpringBootInitializer.java
+D:\mine\jumia\exec_java\demo\phone-categorization-demo\src\main\java\com\exercise\demo\controller\CategorizationController.java
+D:\mine\jumia\exec_java\demo\phone-categorization-demo\src\main\java\com\exercise\demo\entity\Customer.java
+D:\mine\jumia\exec_java\demo\phone-categorization-demo\src\main\java\com\exercise\demo\entity\stanalone\Country.java
+D:\mine\jumia\exec_java\demo\phone-categorization-demo\src\main\java\com\exercise\demo\entity\stanalone\CategorizedPhone.java
+D:\mine\jumia\exec_java\demo\phone-categorization-demo\src\main\java\com\exercise\demo\sqlite\SQLiteDialect.java
+D:\mine\jumia\exec_java\demo\phone-categorization-demo\src\main\java\com\exercise\demo\repositories\CustomerRepository.java
+D:\mine\jumia\exec_java\demo\phone-categorization-demo\src\main\java\com\exercise\demo\service\CustomerService.java
+D:\mine\jumia\exec_java\demo\phone-categorization-demo\src\main\java\com\exercise\demo\utils\Commons.java
+D:\mine\jumia\exec_java\demo\phone-categorization-demo\src\main\java\com\exercise\demo\sqlite\SQLiteIdentityColumnSupport.java
+D:\mine\jumia\exec_java\demo\phone-categorization-demo\src\main\java\com\exercise\demo\service\PhoneCategorizationService.java
+D:\mine\jumia\exec_java\demo\phone-categorization-demo\src\main\java\MvcConfiguration.java
+D:\mine\jumia\exec_java\demo\phone-categorization-demo\src\main\java\com\exercise\demo\DemoApplication.java

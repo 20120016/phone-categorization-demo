@@ -1,0 +1,13 @@
+com\exercise\demo\service\PhoneCategorizationService.class
+com\exercise\demo\controller\CategorizationController.class
+com\exercise\demo\repositories\CustomerRepository.class
+com\exercise\demo\sqlite\SQLiteDialect.class
+com\exercise\demo\configuration\SpringBootInitializer.class
+com\exercise\demo\entity\stanalone\CategorizedPhone.class
+com\exercise\demo\entity\stanalone\Country.class
+com\exercise\demo\utils\Commons.class
+com\exercise\demo\DemoApplication.class
+MvcConfiguration.class
+com\exercise\demo\entity\Customer.class
+com\exercise\demo\service\CustomerService.class
+com\exercise\demo\sqlite\SQLiteIdentityColumnSupport.class
